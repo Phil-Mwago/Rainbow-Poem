@@ -1,3 +1,11 @@
-# Rainbow-Poem
+unicorn
+The Rainbow and the Unicorn
 
-First version for virsion control
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+These are the colors of the rainbow
